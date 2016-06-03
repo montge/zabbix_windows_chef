@@ -6,7 +6,7 @@ default['zabbix_windows']['log_dir'] = "C:\\zabbix\\agent\\log"
 default['zabbix_windows']['run_dir'] = "C:\\zabbix\\agent"
 
 default['zabbix_windows']['agent']['install'] = true
-default['zabbix_windows']['agent']['version'] = "2.0.3"
+default['zabbix_windows']['agent']['version'] = "2.2.9"
 default['zabbix_windows']['agent']['branch'] = "ZABBIX%20Latest%20Stable"
 default['zabbix_windows']['agent']['servers'] = ["zabbixserver.domain.local"]
 default['zabbix_windows']['agent']['servers_active'] = ["zabbixserver.domain.local"]

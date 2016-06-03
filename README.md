@@ -22,7 +22,7 @@ Attributes
 ==========
 I am attempting to leverage the (mostly) standard attributes that I have included.
 
-At this time, the actual files placed are version 2.0.3 and have been placed in the recipe manually.  Later I may have them fetched as remote_file with respect to the version
+At this time, the actual files placed are version 2.2.9 and have been placed in the recipe manually.  Later I may have them fetched as remote_file with respect to the version
 
 
 Usage
@@ -39,3 +39,4 @@ Simply add the "Zabbix\_windows" recipe to a windows machine after establishing 
 
 - Author:: Thomas Vincent (thomasvincent@gmail.com)
 - Original author who @thomasvincent adopted on Supermarket from Author:: [H. "Waldo" Grunenwald][@gwaldo]
+- Updated:: Evan Montgomery-Recht (montge@mianetworks.net)
